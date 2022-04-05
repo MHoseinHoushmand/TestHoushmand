@@ -1,0 +1,4 @@
+﻿  Stack.cpp
+c:\users\dell\desktop\stack\stack\stack.cpp(48): warning C4018: '<': signed/unsigned mismatch
+  Stack.vcxproj -> C:\Users\Dell\Desktop\Stack\Debug\Stack.exe
+  Stack.vcxproj -> C:\Users\Dell\Desktop\Stack\Debug\Stack.pdb (Full PDB)
